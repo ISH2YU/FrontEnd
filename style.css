@@ -61,7 +61,7 @@ h1, h2 {
 /* Style AQI and AQI level spans */
 #aqi, #aqi_level {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 30px;
     color: #333; /* Dark text color for AQI and AQI level */
 }
 
